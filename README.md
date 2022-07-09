@@ -6,3 +6,4 @@ Projects for various Machine Learning Problems
 3. MNIST Classification
 4. CIFAT-10 Classification
 5. Simpsons Characters Recognition
+6. Customer Churn Prediction Using ANN 
