@@ -9,6 +9,7 @@ Deep Learning
 1. MNIST Classification
 2. CIFAT-10 Classification
 3. Simpsons Characters Recognition
-4. Customer Churn Prediction Using ANN 
+4. Customer Churn Prediction Using ANN
+5. Cats vs Dogs Classification
 5. Face Mask Detection Using OpenCV
 
