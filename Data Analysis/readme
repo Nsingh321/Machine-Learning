@@ -1,2 +1,3 @@
-The github is unable to render the plotly plots so I am pasting nb viewer link here https://nbviewer.org/github/Nsingh321/Machine-Learning/blob/main/Data%20Analysis/football-eda-1872-2023.ipynb. This link is of Football EDA 1872-2023 ipynb NOTEBOOK.
-You can click on this link and see the notebook with the rendered plots.
+## NB Viewer links:
+1. Football EDA - https://nbviewer.org/github/Nsingh321/Machine-Learning/blob/main/Data%20Analysis/football-eda-1872-2023.ipynb
+2. Covid-19 Analysis - https://nbviewer.org/github/Nsingh321/Machine-Learning/blob/main/Kaggle/n4-covid-19-analysis.ipynb
